@@ -25,8 +25,11 @@ The public interface provided in the test instructions has been strictly respect
 ## Example Output
 
 DATE | AMOUNT | BALANCE
+
 2025-12-15 | 1000 | 1000
+
 2025-12-15 | 2000 | 3000
+
 2025-12-15 | -500 | 2500
 
 
